@@ -174,7 +174,7 @@ body {
 a {
   color: #333333;
   text-decoration: none;
-  outline: 0; }
+  outline: 2; }
   a:hover, a:focus {
     color: gray; }
 
@@ -688,7 +688,6 @@ td {
   src: url("../fonts/icons.eot?#iefix") format("embedded-opentype"), url("../fonts/icons.woff") format("woff"), url("../fonts/icons.ttf") format("truetype"), url("../fonts/icons.svg#icons") format("svg");
   font-weight: normal;
   font-style: normal; }
-
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
   font-family: 'icons';
@@ -805,7 +804,7 @@ td {
   line-height: 1;
   font-weight: bold;
   padding: 1em;
-  border: 0;
+  border: 20px;
   text-align: center; }
   .btn:hover, .btn:focus {
     background: gray;
